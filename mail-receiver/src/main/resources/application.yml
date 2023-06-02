@@ -5,7 +5,7 @@ logging:
     com.huytmb: DEBUG
     org.springframework.integration: DEBUG
 
-# Mail
+# Mail #username: in username you have to replace @ with %40
 mail:
   imap:
     ssl: true
